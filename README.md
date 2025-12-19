@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋 I'm Dharani Withanachchi</h1>
-<h3 align="center">Frontend & Backend Developer from Sri Lanka 🇱🇰</h3>
+<h3 align="center">Frontend & Backend Developer from Sri Lanka</h3>
 
 <p align="center">
   <a href="https://dharani.dev" target="_blank">🌐 Portfolio</a> •
@@ -24,10 +24,9 @@
 ---
 
 ### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DharaniWithanachchi&show_icons=true&theme=dark&hide_border=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DharaniWithanachchi&layout=compact&theme=dark&hide_border=true" height="160"/>
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=DharaniWithanachchi&show_icons=true&theme=dark&hide_border=true" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DharaniWithanachchi&layout=compact&theme=dark&hide_border=true" height="160"/>
+
 
 ---
 
@@ -42,5 +41,3 @@
 </p>
 
 ---
-
-⭐ Thanks for visiting my profile
