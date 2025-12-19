@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Dharani Withanachchi</h1>
 <h3 align="center">A passionate frontend & backend developer from Sri Lanka</h3>
+<h3>I enjoy building applications, learning new technologies, and improving my skills through projects.</h3>
 
-
-
-- 📫 How to reach me **dharani.withanachchi@gmail.com**
+🌐 Portfolio
+- **https://dharani.dev**
+📫 Email
+-  **dharani.withanachchi@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
