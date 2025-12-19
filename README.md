@@ -1,19 +1,46 @@
-<h1 align="center">Hi 👋, I'm Dharani Withanachchi</h1>
-<h3 align="center">A passionate frontend & backend developer from Sri Lanka</h3>
-<h3>I enjoy building applications, learning new technologies, and improving my skills through projects.</h3>
+<h1 align="center">Hi 👋 I'm Dharani Withanachchi</h1>
+<h3 align="center">Frontend & Backend Developer from Sri Lanka 🇱🇰</h3>
 
-🌐 <strong>Portfolio</strong>  
-- <a href="https://dharani.dev" target="_blank">https://dharani.dev</a>
+<p align="center">
+  <a href="https://dharani.dev" target="_blank">🌐 Portfolio</a> •
+  <a href="mailto:dharani.withanachchi@gmail.com">📫 Email</a> •
+  <a href="https://linkedin.com/in/dharanisw" target="_blank">LinkedIn</a>
+</p>
 
-<h3 align="left">Connect with me:</h3>
+---
+
+### 👩‍💻 About me
+- I build web applications with clean UI and solid backend logic  
+- I enjoy learning new tools by building real projects  
+- Interested in full-stack development and problem solving  
+
+---
+
+### 🛠 Languages & Tools
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,python,django,mysql,git,github,postman" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DharaniWithanachchi&show_icons=true&theme=dark&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DharaniWithanachchi&layout=compact&theme=dark&hide_border=true" height="160"/>
+</p>
+
+---
+
+### 🤝 Connect with me
 <p align="left">
   <a href="https://linkedin.com/in/dharanisw" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/>
   </a>
   <a href="https://fb.com/dharani.withanachchi" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="40" />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="40"/>
   </a>
 </p>
 
-📫 Email: <a href="mailto:dharani.withanachchi@gmail.com">dharani.withanachchi@gmail.com</a>
+---
 
+⭐ Thanks for visiting my profile
