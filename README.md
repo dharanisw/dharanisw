@@ -23,13 +23,6 @@
 
 ---
 
-### 📊 GitHub Stats
-<img src="https://github-readme-stats.vercel.app/api?username=DharaniWithanachchi&show_icons=true&theme=dark&hide_border=true" height="160"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DharaniWithanachchi&layout=compact&theme=dark&hide_border=true" height="160"/>
-
-
----
-
 ### 🤝 Connect with me
 <p align="left">
   <a href="https://linkedin.com/in/dharanisw" target="_blank">
